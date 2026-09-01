@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Tabata",
+      "hasCanvas": false,
+      "bodyTextLen": 239,
+      "bodyTextHash": "7d1ec84cabd13b6466683a6356f671edeb653f23b23bae69bb7ad6072a56404b",
+      "bodyTextPrefix": "PROTOCOLLO Tabata Imposta ripetizioni, lavoro e pausa. Poi inizi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Tabata",
+      "hasCanvas": false,
+      "bodyTextLen": 202,
+      "bodyTextHash": "00736c64016e4a2a5c00ba5227867ad1b970b8abb461d8ab59f694b3ba1bb35d",
+      "bodyTextPrefix": "PROTOCOLLO Tabata Imposta ripetizioni, lavoro e pausa. Poi inizi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
